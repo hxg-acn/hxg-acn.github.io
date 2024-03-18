@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls", 
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "app.kenedix_st",
+      "package_name": "app.kenedix_st.local",
+      "sha256_cert_fingerprints": [
+        "E8:1F:80:65:9C:12:52:04:7B:94:5A:61:D2:DF:20:1D:00:72:68:DE:CC:92:01:0B:F7:CA:B1:90:7C:48:43:C2"
+      ]
+    }
+  }
+]
