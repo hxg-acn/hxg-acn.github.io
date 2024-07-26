@@ -1,28 +1,28 @@
 [
-	{
-		"relation": [
-			"delegate_permission/common.handle_all_urls",
-			"delegate_permission/common.get_login_creds"
-		],
-		"target": {
-			"namespace": "android_app",
-			"package_name": "app.kdx_sto.kdx_st.local",
-			"sha256_cert_fingerprints": [
-				"93:1B:8B:3A:AB:73:BE:2F:0B:EC:41:AB:72:32:3F:E2:94:40:73:C5:FB:68:76:CB:8C:8C:A8:58:76:C3:7A:95"
-			]
-		}
-	},
-	{
-		"relation": [
-			"delegate_permission/common.handle_all_urls",
-			"delegate_permission/common.get_login_creds"
-		],
-		"target": {
-			"namespace": "android_app",
-			"package_name": "app.kdx_sto.kdx_st.dev",
-			"sha256_cert_fingerprints": [
-				"93:1B:8B:3A:AB:73:BE:2F:0B:EC:41:AB:72:32:3F:E2:94:40:73:C5:FB:68:76:CB:8C:8C:A8:58:76:C3:7A:95"
-			]
-		}
-	}
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.kdx_sto.kdx_st.local",
+      "sha256_cert_fingerprints": [
+        "93:1B:8B:3A:AB:73:BE:2F:0B:EC:41:AB:72:32:3F:E2:94:40:73:C5:FB:68:76:CB:8C:8C:A8:58:76:C3:7A:95"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.kdx_sto.kdx_st.dev",
+      "sha256_cert_fingerprints": [
+        "93:1B:8B:3A:AB:73:BE:2F:0B:EC:41:AB:72:32:3F:E2:94:40:73:C5:FB:68:76:CB:8C:8C:A8:58:76:C3:7A:95"
+      ]
+    }
+   }
 ]
