@@ -1,26 +1,15 @@
 [
   {
     "relation": [
-      "delegate_permission/common.handle_all_urls",
-      "delegate_permission/common.get_login_creds"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "app.kdx_sto.kdx_st.local",
-      "sha256_cert_fingerprints": [
-        "93:1B:8B:3A:AB:73:BE:2F:0B:EC:41:AB:72:32:3F:E2:94:40:73:C5:FB:68:76:CB:8C:8C:A8:58:76:C3:7A:95"
-      ]
-    }
-  },
-{
-    "relation": [
-      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.handle_all_urls", 
       "delegate_permission/common.get_login_creds"
     ],
     "target": {
       "namespace": "android_app",
       "package_name": "app.kdx_sto.kdx_st.dev",
       "sha256_cert_fingerprints": [
+        "E8:1F:80:65:9C:12:52:04:7B:94:5A:61:D2:DF:20:1D:00:72:68:DE:CC:92:01:0B:F7:CA:B1:90:7C:48:43:C2",
+        "9D:0A:D5:39:03:42:03:09:C4:1D:09:AF:7C:CB:F6:69:70:09:FB:64:79:71:34:4E:CA:5E:E7:26:FE:03:0A:6F",
         "93:1B:8B:3A:AB:73:BE:2F:0B:EC:41:AB:72:32:3F:E2:94:40:73:C5:FB:68:76:CB:8C:8C:A8:58:76:C3:7A:95"
       ]
     }
